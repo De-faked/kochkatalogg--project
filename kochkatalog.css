@@ -1,0 +1,39 @@
+.body {
+    width: 768px;
+    height: 1106px;
+    top: -242px;
+    left: 558px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(156, 210, 174, 1);
+
+
+}
+
+.body2 {
+    width: 426px;
+    height: 33px;
+    top: -176px;
+    left: 729px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+    display: inline-block;
+    background-color: black;
+    display;
+
+
+}
+
+#tip1 {
+    width: 112px;
+    height: 33px;
+    top: -176px;
+    left: 729px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(214, 124, 42, 1);
+
+
+}
